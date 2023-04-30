@@ -1,4 +1,4 @@
-#Group project: https://www.kaggle.com/competitions/titanic/data
+#Group project: Jacob Hall, Rob Hall, Caitlin Francis, Alyas Khudier, & Kristen McDonald https://www.kaggle.com/competitions/titanic/data
 library(dplyr)
 library(shiny)
 library(readr)
